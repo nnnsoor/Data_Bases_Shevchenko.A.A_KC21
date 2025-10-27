@@ -517,15 +517,10 @@ Diagram A3:  Field Work
 ```
 Lab3/
 ├── README.md
-├── Farm_KS21_Shevchenko.bp1
-├── model_properties.png
+├── Farm_Management_Shevchenko_A_A.bp1
 ├── context_diagram_A0.png
 ├── decomposition_A0.png
 ├── field_work_A3.png          
-├── model_report.png
-├── diagram_report.png
-├── arrow_report.png
-└── consistency_report.png
 ```
 
 ---
@@ -540,5 +535,4 @@ Lab3/
 
 ## Посилання
 
-- [Конспект лекцій](посилання-на-конспект)
-- [Документація BPWin](посилання-якщо-є)
+- [Конспект лекцій](https://docs.google.com/document/d/1Ugped4A2_HVfekMeNFSazkbyiOyubYB4vJDXcnRIavY/edit?usp=sharing)
