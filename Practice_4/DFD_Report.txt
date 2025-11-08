@@ -1,0 +1,61 @@
+Report for Diagram: A3.2.1, Planting  
+
+
+Activity Name: Fertilizers 
+Activity Number: 8
+
+Activity Name: Workers
+Activity Number: 14
+
+Activity Name: Quality Standards
+Activity Number: 16
+
+Activity Name: Field Data Form
+Activity Number: 17
+
+Activity Name: Crop Plan Data 
+Activity Number: 11
+
+Activity Name: Seeds Inventory
+Activity Number: 10
+
+Activity Name: Planting Equipment
+Activity Number: 15
+
+Activity Name: Assigned Land Plot 
+Activity Number: 7
+
+Activity Name: Soil Preparating
+Activity Definition: Preparing soil for planting: plowing, cultivation, fertilizing
+Activity Number: 1
+
+Activity Name: Quality Check
+Activity Definition: Checking planting quality and seed distribution
+Activity Number: 4
+
+Activity Name: Documentation
+Activity Definition: Recording planting data and field information
+Activity Number: 5
+
+Activity Name: Planting Process
+Activity Definition: Actual planting of seeds into prepared soil  
+Activity Number: 3
+
+Activity Name: Seed Selection 
+Activity Definition: Selecting and preparing seeds according to crop plan
+Activity Number: 2
+
+Activity Name: Quality Report
+Activity Number: 19
+
+Activity Name: Planted Field
+Activity Number: 18
+
+Activity Name: Prepared Soil
+Activity Number: 12
+
+Activity Name: Selected Seeds
+Activity Number: 13
+
+Activity Name: Completed Records
+Activity Number: 20
