@@ -104,4 +104,4 @@ Practice_5/
 ---
 
 ## Посилання
-- [Конспект лекцій](https://docs.google.com/...)
+- [Конспект лекцій](https://docs.google.com/document/d/1Ugped4A2_HVfekMeNFSazkbyiOyubYB4vJDXcnRIavY/edit?usp=sharing)
