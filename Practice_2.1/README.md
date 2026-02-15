@@ -80,27 +80,6 @@ CREATE TABLE Brigade (
 );
 ```
 
----
-
-### Завдання 3. Реалізація та запити
-
-#### Підключення до БД
-![Підключення до SQL Server](./screenshots/connect.png)
-
-#### Структура таблиць
-![Таблиці після SETUP.SQL](./screenshots/tables.png)
-
-#### Вставка даних (INSERT)
-![INSERT](./screenshots/insert.png)
-
-#### Модифікація структури
-![ALTER TABLE](./screenshots/alter.png)
-
-#### Видалення та очищення
-![DELETE та TRUNCATE](./screenshots/delete.png)
-
----
-
 ### Аналітичні запити
 
 #### 1. Площа під культури
@@ -110,7 +89,6 @@ FROM Land_Plot
 JOIN Crop ON Land_Plot.crop_id = Crop.crop_id
 GROUP BY Crop.crop_name;
 ```
-![Запит 1](./screenshots/query1.png)
 
 #### 2. Робітники бригади з технікою
 ```sql
@@ -120,7 +98,6 @@ JOIN Worker_Equipment_Skill ON Worker.worker_id = Worker_Equipment_Skill.worker_
 JOIN Equipment ON Worker_Equipment_Skill.equipment_id = Equipment.equipment_id
 ORDER BY Worker.last_name;
 ```
-![Запит 2](./screenshots/query2.png)
 
 #### 3. Культура з максимальною врожайністю
 ```sql
@@ -128,7 +105,6 @@ SELECT TOP 1 crop_name, average_yield
 FROM Crop
 ORDER BY average_yield DESC;
 ```
-![Запит 3](./screenshots/query3.png)
 
 #### 4. Бригади з технікою понад середню
 ```sql
@@ -149,7 +125,6 @@ HAVING COUNT(Equipment.equipment_id) > (
     ) AS sub
 );
 ```
-![Запит 4](./screenshots/query4.png)
 
 #### 5. Ділянки з невідповідними добривами
 ```sql
@@ -164,9 +139,6 @@ WHERE Fertilizer.fertilizer_type NOT IN (
     WHERE Crop_Required_Fertilizer.crop_id = Crop.crop_id
 );
 ```
-![Запит 5](./screenshots/query5.png)
-
----
 
 ## Висновки
 У ході виконання практичної роботи було:
