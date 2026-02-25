@@ -1,4 +1,4 @@
-# Farm Management Database — Практична робота №7
+# Farm Management Database — Практична робота №2.2
 
 ## Опис
 
