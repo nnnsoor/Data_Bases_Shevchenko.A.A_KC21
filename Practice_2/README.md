@@ -23,10 +23,10 @@
 
 | Файл | Вміст |
 |---|---|
-| `SETUP.SQL` | Створення та налаштування таблиць |
-| `INSERT.SQL` | Додавання 110 записів у всі таблиці |
-| `UPDATE.SQL` | Оновлення та видалення даних |
-| `QUERY.SQL` | 9 запитів: WHERE, AND/OR, LIKE, JOIN, SUBQUERY, GROUP BY |
+| `SETUP2.SQL` | Створення та налаштування таблиць |
+| `INSERT3.SQL` | Додавання 110 записів у всі таблиці |
+| `UPDATE1.SQL` | Оновлення та видалення даних |
+| `Query3.SQL` | 9 запитів: WHERE, AND/OR, LIKE, JOIN, SUBQUERY, GROUP BY |
 
 ## Запити (QUERY.SQL)
 
